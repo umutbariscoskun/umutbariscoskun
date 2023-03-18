@@ -30,12 +30,12 @@
 
 <h3 align="left">Apps I've contributed :</h3>
 
-<h4 align="left">Developed with teams:</h4>
+<h4 align="left">Developed for old jobs with teams:</h4>
 
 - <a href="https://apps.apple.com/tr/app/best-body-project/id1602529289?l=tr">Best Body Project</a>
 - <a href="https://play.google.com/store/apps/details?id=tr.edu.erciyes&hl=tr&gl=US">ERU</a>
 - <a href="https://apps.apple.com/tr/app/zingo/id1563425450?l=tr">Zingo!</a>
-<h4 align="left">Developed by myself:</h4>
+<h4 align="left">My Own Projects:</h4>
 
 - <a href="https://apps.apple.com/us/app/sira-kimde/id6446219138">Sira Kimde?</a>
 
