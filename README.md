@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on Flutter [BBP](https://apps.apple.com/tr/app/best-body-project/id1602529289?l=tr)
 
+- 🌱 I’m currently learning **Swift**
+
 - 👨‍💻 All of my projects are available at [https://apps.apple.com/us/developer/umut-baris-coskun/id1675651226](https://apps.apple.com/us/developer/umut-baris-coskun/id1675651226)
 
 - 📝 I regularly write articles on [https://medium.com/@umutbariscoskun](https://medium.com/@umutbariscoskun)
