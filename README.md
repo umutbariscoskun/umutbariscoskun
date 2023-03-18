@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Swift, Firebase**
 
-- 📫 How to reach me **umutcoskun2017@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/umutbariscoskun/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
