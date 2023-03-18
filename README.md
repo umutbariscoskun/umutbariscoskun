@@ -30,7 +30,7 @@
 
 <h3 align="left">Apps I've contributed :</h3>
 
-<h4 align="left">Developed with teams I've worked with before:</h4>
+<h4 align="left">Developed with teams:</h4>
 
 - <a href="https://apps.apple.com/tr/app/best-body-project/id1602529289?l=tr">Best Body Project</a>
 - <a href="https://play.google.com/store/apps/details?id=tr.edu.erciyes&hl=tr&gl=US">ERU</a>
