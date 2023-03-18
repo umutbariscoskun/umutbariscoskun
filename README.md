@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut Baris</h1>
 <h3 align="center">A passionate Mobile Application developer from Turkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutbariscoskun" alt="umutbariscoskun" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutbariscoskun" alt="umutbariscoskun" /></a> </p> -->
 
 - 🔭 I’m currently working on Flutter [BBP](https://apps.apple.com/tr/app/best-body-project/id1602529289?l=tr)
 
