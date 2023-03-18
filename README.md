@@ -29,12 +29,12 @@
 </p>
 
 <h3 align="left">Apps I've contributed :</h3>
-<p align="left">
 
-<a href="https://apps.apple.com/tr/app/best-body-project/id1602529289?l=tr">Best Body Project</a>
-<a href="https://play.google.com/store/apps/details?id=tr.edu.erciyes&hl=tr&gl=US">ERU</a>
-<a href="https://apps.apple.com/tr/app/zingo/id1563425450?l=tr">Zingo!</a>
-</p>
+
+- <a href="https://apps.apple.com/tr/app/best-body-project/id1602529289?l=tr">Best Body Project</a>
+- <a href="https://play.google.com/store/apps/details?id=tr.edu.erciyes&hl=tr&gl=US">ERU</a>
+- <a href="https://apps.apple.com/tr/app/zingo/id1563425450?l=tr">Zingo!</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
