@@ -20,9 +20,9 @@
 <a href="https://linkedin.com/in/umutbariscoskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutbariscoskun" height="30" width="40" /></a>
 <a href="https://medium.com/@umutbariscoskun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umutbariscoskun" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Find me at Stores:</h3>
 <p align="left">
-<h3 align="left">Find me at Stores:</h3>
 <a href="https://apps.apple.com/us/developer/umut-baris-coskun/id1675651226" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/2048px-App_Store_%28iOS%29.svg.png" alt="umutbariscoskun" height="40" width="40" /></a>
 <a href="https://play.google.com/store/apps/dev?id=6017903709719523489" target="blank"><img align="center" src="https://helios-i.mashable.com/imagery/articles/04EZglaVzAW19V6FIiDD3TA/images-1.fit_lim.size_376x.png" alt="@umutbariscoskun" height="40" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~0183aca6b69fe89b41?viewMode=1" target="blank"><img align="center" src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" alt="@umutbariscoskun" height="40" width="40" /></a>
