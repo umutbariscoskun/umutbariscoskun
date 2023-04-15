@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://apps.apple.com/us/developer/umut-baris-coskun/id1675651226](https://apps.apple.com/us/developer/umut-baris-coskun/id1675651226)
 
-- 📝 Reach my last article on [https://medium.com/@umutbariscoskun/flutter-oop-ve-baz%C4%B1-basit-ama-kar%C4%B1%C5%9Ft%C4%B1r%C4%B1lan-m%C3%BClakat-sorular%C4%B1-7d9e7fb5bde2](https://medium.com/@umutbariscoskun)
+- 📝 Reach my last article on [Medium]([https://medium.com/@umutbariscoskun](https://medium.com/@umutbariscoskun/flutter-oop-ve-baz%C4%B1-basit-ama-kar%C4%B1%C5%9Ft%C4%B1r%C4%B1lan-m%C3%BClakat-sorular%C4%B1-7d9e7fb5bde2))
 
 - 💬 Ask me about **Flutter, Dart, Swift, Firebase**
 
