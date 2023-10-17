@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutbariscoskun" alt="umutbariscoskun" /></a> </p> -->
 
-- 🔭 I’m currently working on [BBP](https://apps.apple.com/tr/app/best-body-project/id1602529289?l=tr)
+- 🔭 Take a look at my current skills (09/23) through a project: [Github](https://github.com/umutbariscoskun/ApiCrudAPP)
 
 - 🌱 I’m currently learning **Swift**
 
