@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umutbariscoskun" alt="umutbariscoskun" /></a> </p> -->
 
-- 🔭 Take a look at my current skills (09/23) through a project: [Github](https://github.com/umutbariscoskun/ApiCrudAPP)
+- 🔭 Take a look at my current skills (07/24) through a project: [Github](https://github.com/umutbariscoskun/JuneCase)
 
 - 🌱 I’m currently learning **Swift**
 
